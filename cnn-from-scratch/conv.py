@@ -1,8 +1,8 @@
-# cnn from scratch using numpy
+# convolutional layer from scratch using numpy
 
 import numpy as np
 
-def cnn_feedforward(x,kernel):
+def conv_feedforward(x,kernel):
     k_height = kernel.shape[0]
     k_width = kernel.shape[1]
     x_height = x.shape[0]
