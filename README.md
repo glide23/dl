@@ -1,2 +1,2 @@
 # Deep Learning Blocks
-Deep learning basic blocks implementations in Python
+Deep learning basic blocks in Python
