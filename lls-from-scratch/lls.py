@@ -1,6 +1,6 @@
 import numpy as np
 
-# Linear Least Squares method implemented in numpy, for *inverse* X matrices only
+# Linear Least Squares method implemented in numpy, for *invertible* X matrices only
 # input:
 #   X - a matrix which rows hold our data's samples
 #   y_true - a vector which cells hold the groundtruth value for each sample
